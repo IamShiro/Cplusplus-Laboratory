@@ -6,7 +6,7 @@ using namespace std;
 
 int main(){
 
-    int num1,num2,current,answer = 0; // numbers of algorithms,algorithms for delete, variable for build the answer and answer
+    int num1,num2,current,answer = 0; //numbers of algorithms,algorithms for delete, variable for build the answer and answer
     int i,j,h; //variables for
     int p = 0, pp; //variables of mark
     char number[num1],now[num1-num2]; //store of the number and variable
